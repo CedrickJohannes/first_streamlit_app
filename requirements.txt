@@ -1,0 +1,2 @@
+# requirements.txt
+snwoflake-connector-python
